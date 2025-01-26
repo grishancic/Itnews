@@ -1,0 +1,19 @@
+{%extends 'main/layout.html'%}
+{%load static%}
+
+{%block content%}
+
+<h1>Форум</h1>
+<form method="POST">
+    <input type="text" name="username" placeholder="Ваше имя" required>
+    <textarea name="message" placeholder="Ваше сообщение" required></textarea>
+    <button type="submit">Отправить</button>
+</form>
+<div id="messages">
+    {% for msg in messages %}
+        <div class="message">
+            <strong>{{ msg.username }}</strong>: {{ msg.message }}
+        </div>
+    {% endfor %}
+</div>
+{%endblock%}

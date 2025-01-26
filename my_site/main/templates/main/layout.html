@@ -1,0 +1,31 @@
+{%load static%}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="{% static 'main/css/layout.css' %}">
+    <title>Title</title>
+</head>
+<body>
+<div class="hat">
+    <div class="logo">NEWS IT</div>
+    <nav><a href="{%url 'home'%}" class="b1">Главная </a>
+        <a href="{%url 'portfolio'%}" class="b2"> Портфолио</a>
+        <a href="{%url 'contacts'%}" class="b3"> Новости IT</a>
+        <a href="{%url 'applications'%}" class="b4"> Форум</a>
+    </nav>
+<div class="nus"><img src="{%static 'main/img/Снимок экрана 2025-01-20 в 20.09.23.png'%} "style="--clr:#7d7d7d"></div>
+<div class="nus2"><img src="{%static 'main/img/Снимок экрана 2025-01-20 в 20.09.23.png'%} "style="--clr:#7d7d7d"></div>
+<div class="nus3"><img src="{%static 'main/img/imagesbuhbjnkm.png'%} "style="--clr:#7d7d7d"></div>
+    <nav>
+    	<a href="https://web.telegram.org/k/"><img src="{%static 'main/img/telegram.png'%}"class="tg"></a>
+
+    	<a href="https://vk.com/"><img src="{%static 'main/img/vk.png'%}"class="vk"></a>
+
+	</nav>
+</div>
+{%block content%}
+{%endblock%}
+</body>
+</html>

@@ -1,0 +1,262 @@
+body{background-color:Black;}
+
+.b1{position: absolute;
+top:20px;
+left:100px;
+font-family: Marker Felt, fantasy;
+font-size:35px;
+color: Grey;
+border-radius:50px;
+}
+
+.b2{position: absolute;
+top:20px;
+left:300px;
+font-family: Marker Felt, fantasy;
+font-size:35px;
+color: Grey;
+border-radius:50px;
+}
+
+.b3{position: absolute;
+top:20px;
+left:500px;
+font-family: Marker Felt, fantasy;
+font-size:35px;
+color: Grey;
+border-radius:50px;
+}
+
+.b4{position: absolute;
+top:20px;
+left:700px;
+font-family: Marker Felt, fantasy;
+font-size:35px;
+color: Grey;
+border-radius:50px;
+}
+
+.nus img{position: absolute;
+height:3px;
+width:2000px;
+top:60px;
+right:0px;
+font-family: Marker Felt, fantasy;
+font-size:35px;
+color: Grey;
+border-radius:50px;
+}
+
+.nus2 img{position: absolute;
+height:56px;
+width:3px;
+top:2px;
+left:850px;
+font-family: Marker Felt, fantasy;
+font-size:35px;
+color: Grey;
+}
+
+.nus3 img{position: absolute;
+height:35px;
+width:35px;
+top:20px;
+left:1000px;
+font-family: Marker Felt, fantasy;
+font-size:35px;
+color: Grey;
+}
+
+
+.logo{position: absolute;
+top:20px;
+left:860px;
+font-family: Marker Felt, fantasy;
+font-size:35px;
+color: Linen;
+border-radius:50px;
+}
+
+
+.fon img{position: absolute;
+height:500px;
+width:900px;
+top:200px;
+right:70px;
+font-size:50px;
+color: MediumPurple;
+border-radius:20px;
+}
+
+.home{position: absolute;
+font-family: Marker Felt, fantasy;
+top:200px;
+left:70px;
+font-size:50px;
+color: Grey;
+border-radius:20px;
+}
+
+.color52{position: absolute;
+font-family: Marker Felt, fantasy;
+top:65px;
+left:5px;
+font-size:50px;
+color: Teal;
+border-radius:20px;
+}
+
+.phone{position: absolute;
+height:900px;
+width:900px;
+top:100px;
+left:100px;
+font-size:50px;
+color: MediumPurple;
+border-radius:20px;
+}
+
+.contact{position: absolute;
+font-family: Marker Felt, fantasy;
+top:235px;
+left:90px;
+font-size:35px;
+color: Purple;
+border-radius:20px;
+}
+
+.contact2{position: absolute;
+font-family: Marker Felt, fantasy;
+font-size:40px;
+top:316px;
+left:90px;
+font-size:20px;
+color: Indigo;
+border-radius:20px;
+}
+
+.tg{position: absolute;
+height:35px;
+width:35px;
+top:20px;
+right:20px;
+border-radius:20px;
+}
+
+.vk{position: absolute;
+height:35px;
+width:35px;
+top:20px;
+right:65px;
+border-radius:20px;
+}
+
+.site7 img{position: absolute;
+height:1050px;
+width:1580px;
+top:490px;
+left:40px;
+border-radius:40px;
+}
+
+.site1 img{position: absolute;
+height:500px;
+width:500px;
+top:1030px;
+left:580px;
+border-radius:30px;
+}
+
+.site4 img{position: absolute;
+height:500px;
+width:500px;
+top:1030px;
+left:1110px;
+border-radius:30px;
+}
+
+.site5 img{position: absolute;
+height:500px;
+width:500px;
+top:500px;
+left:1110px;
+border-radius:30px;
+}
+
+.site6 img{position: absolute;
+height:500px;
+width:500px;
+top:1030px;
+left:50px;
+border-radius:30px;
+}
+
+.portfolio{position: absolute;
+margin: 0 auto;
+text-align: center;
+font-family: Marker Felt, fantasy;
+font-size:40px;
+height:500px;
+width:500px;
+top:100px;
+color: Grey;
+border-radius:30px;
+}
+
+.portfolio2{position: absolute;
+text-align: center;
+font-family: Marker Felt, fantasy;
+font-size:50px;
+top:500px;
+left:60px;
+color: Linen;
+border-radius:30px;
+}
+
+.site2 img{position: absolute;
+height:500px;
+width:500px;
+top:2030px;
+left:50px;
+border-radius:30px;
+}
+
+.site3 img{position: absolute;
+height:500px;
+width:500px;
+top:2030px;
+left:50px;
+border-radius:30px;
+}
+
+.blank{position: absolute;
+left:600px;
+right:600px;
+top:200px;
+border-radius:30px;
+font-family: Marker Felt, fantasy;
+font-size:50px;
+color: Linen;
+}
+
+.but1{position: absolute;
+top:570px;
+left:600px;
+right:600px;
+border-radius:30px;
+font-family: Marker Felt, fantasy;
+font-size:50px;
+color: Grey;
+}
+
+.form_control{position: absolute;
+display: flex;
+height:200px;
+width:500px;
+top:350px;
+left:600px;
+right:600px;
+border-radius:25px;
+}
+
+}
